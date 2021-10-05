@@ -32,6 +32,7 @@
 - [Daemon1024](https://github.com/daemon1024)
 - [atif](https://github.com/mdatif796)
 - [Devil-Echo]
+- [Puskar-Neupane](https://github.com/Puskar-Neupane
 - [Tyler Lawton](https://github.com/thor-molecules)
 - [Kwon Hur](https://github.com/kwonhur)
 - [Dominic London](https://github.com/djlondon)
